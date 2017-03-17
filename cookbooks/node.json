@@ -1,0 +1,13 @@
+{
+	"user":{
+       "name" : "nabil",
+       "password": "hash"
+	},
+	"database":{
+       "name" : "nabil",
+       "password": "ChAngEm3",
+       "version": "5.7",
+       "port": "3306"
+	},
+	"run_list": ["recipe[main]"]
+}
